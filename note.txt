@@ -5,3 +5,11 @@ Few thing happened :
 	under your GitHub.com account 
 2. Made the connection with your local git repo 
 3. Added all your commits to remote repo
+
+
+Now our work will continue locally 
+
+1. add a new file called note.txt 
+2. commited the change to local repo
+3. we want this change to be reflected in remote repository so We PUSHED local commits to remote repository using push origin button 
+4. Observe it has been added in your repository under GitHub.com
